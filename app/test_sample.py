@@ -7,4 +7,4 @@ def test_return_fun_text():
 
 def test_multiply_objects_by_five():
     assert sample.multiply_objects_by_five(3) == 15
-    assert sample.multiply_objects_by_five(5) == 25
+    assert sample.multiply_objects_by_five(5) == 2
